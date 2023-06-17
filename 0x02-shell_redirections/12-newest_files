@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tl | grep -v '^d' | head -10 | awk '{print &9}
+ls -tl | head
